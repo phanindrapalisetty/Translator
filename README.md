@@ -1,2 +1,2 @@
-# Translator
- 
+TEXT TRANSLATOR
+Using IBM Watson APIs
